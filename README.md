@@ -32,3 +32,27 @@ Sources of Data for the St. Louis Region
 | Scooters        |      | Point      | Daily   | Ability to Intercept Bird, Lime, Spin APIs |
 | Zillow/RedFin   |      | Point      | Daily   | Investigate Sources of Real Estate Data    |
 
+## Other
+- Building Footprints
+- Roads
+- Economic Data (Employment, Jobs)
+- Health Data (MOPHIMS, MICA)
+
+## First Steps
+- Crime
+- CSB
+- Vacancy
+- Census
+- Building Footprints and Roads
+- Economic Data
+- Health Data
+
+## Later Additions
+- Social Media
+- Any Complex Scraped Data
+- Political Data
+- Business Data
+- Proprietary Additions
+
+## Mission
+With the higest affinity for precision and accuracy, aggregate as large and diverse a set of datasources while maintaing strict standards that make the API experience as flawless as possible.
